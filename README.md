@@ -6,7 +6,7 @@ The goal of this repository is to strengthen core programming skills and build a
 # FILES IN THIS REPOSITORY
 - menu_driven_calculator.py
 
-📌 Topics Covered
+📌 Topics which will be covered under this repository 
 
 - Basic Input / Output
 
