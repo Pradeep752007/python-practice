@@ -5,6 +5,7 @@ The goal of this repository is to strengthen core programming skills and build a
 
 # FILES IN THIS REPOSITORY
 - menu_driven_calculator.py
+- fibonacci_series.py
 
 📌 Topics which will be covered under this repository 
 
