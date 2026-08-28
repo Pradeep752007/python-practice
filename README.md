@@ -7,6 +7,8 @@ The goal of this repository is to strengthen core programming skills and build a
 - menu_driven_calculator.py
 - fibonacci_series.py
 - factorial.py
+- hcf.py
+- lcm.py
 
 📌 Topics which will be covered under this repository 
 
@@ -21,6 +23,8 @@ The goal of this repository is to strengthen core programming skills and build a
 - Number-based Programs (Prime, Armstrong, Palindrome, etc.)
 
 - Factorial & Fibonacci (Iterative and Functional Approaches)
+
+- HCF & LCM of two numbers (Iterative and conditional approach)
 
 - Pattern Programs
 
